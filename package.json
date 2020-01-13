@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/Roakz/MERN-assessment-backend#readme",
   "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
     "mocha": "^7.0.0"
   }
 }
